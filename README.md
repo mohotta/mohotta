@@ -115,3 +115,9 @@
 </div>
 
 ###
+
+### 
+
+<img src="https://raw.githubusercontent.com/mohotta/mohotta/output/snake.svg" alt="Snake animation" /> 
+
+###
