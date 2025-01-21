@@ -7,6 +7,9 @@
 ###
 
 <div align="center">
+  <a href="https://mohotta.me" target="blank">
+    <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="mohotta" />
+   </a>
   <a href="mailto:kumudu.20@cse.mrt.ac.lk" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
